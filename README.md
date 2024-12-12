@@ -7,3 +7,9 @@ Social media plays a key role in shaping public narratives, particularly when us
 ### Context
 Donald Trump’s tweets provide a unique case study, reflecting his use of social media as a direct communication tool, a method he uses in a robust manner. As a high-profile individual for many years, Trump has long used his influence to express his opinion about politics and his career. Analyzing these tweets helps uncover temporal patterns in sentiment and emotion, showing how his language evolved in response to events or initiated them. At the very end of his presidency, on January 6, 2021, his Twitter influence was even further put on display after he was impeached by the House of Representatives for inciting an insurrection. Soon after, on January 8, Twitter banned Trump’s account, which was reinstated by then-new CEO Elon Musk nearly two years later, in November 2022.
 
+
+*Guide*: 
+
+ipynb: code for the entire project
+pdf report: final report with analysis and conclusion
+powerpoint: project proposal
